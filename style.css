@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+h1, h2, h3
+ { 
+            font-family: 'Roboto', sans-serif;
+          }
+ img 
+{
+            width: 100px;
+            height: 100px;
+            border-radius: 100px;
+            border:2px solid DodgerBlue;
+            margin-left: 30px;
+            opacity: 0.7;
+
+}
+
+.blue-text {}
+#square-img {}
+
+body {
+
+            background-color: black;
+}
+body {
+  color: lightblue;
+}
+
+h1 {
+  color: lightblue;
+}
+
+table th, td {
+border: 1px solid DodgerBlue;
+
+    
